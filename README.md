@@ -1,3 +1,6 @@
+# geoip-api
+## https://www.spigotmc.org/resources/api-geoip.28015/
+
 **What does it?**
 
 With this api you can get the location of an ip/player, it uses GeoLite data created by MaxMind http://www.maxmind.com. The api will automatically download the database from the maxmind mirror!
@@ -40,11 +43,3 @@ add this to your plugin.yml
 ```yaml
 depend: [GeoipAPI]
 ```
-
-**Links**
-
-[JavaDoc]('https://javadocs.theindra.eu/GeoIP/')
-
-[Website]('https://theindra.eu/')
-
-[Demo]('https://www.spigotmc.org/resources/geoip-lookup.28016/')
