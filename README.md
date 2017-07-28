@@ -1,5 +1,5 @@
 # geoip-api
-## https://www.spigotmc.org/resources/api-geoip.28015/
+https://www.spigotmc.org/resources/api-geoip.28015/
 
 **What does it?**
 
